@@ -27,3 +27,4 @@ This project demonstrates DOM manipulation, game logic, and keyboard event handl
 
 1. Clone this repository:
    ```bash
+   git clone https://github.com/your-username/snake-game.git
